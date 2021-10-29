@@ -1,0 +1,30 @@
+{
+  "name": "blaster",
+  "version": "0.1.0",
+  "author": "Jesse A. Johnson <jesseajohnson@pm.me> (https://twitter.com/fizzog_/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnson-jesse/simple-react-canvas-game"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "11.1.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.31",
+    "autoprefixer": "^10.3.7",
+    "eslint": "8.0.1",
+    "eslint-config-next": "11.1.2",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.17",
+    "typescript": "4.4.4"
+  }
+}
